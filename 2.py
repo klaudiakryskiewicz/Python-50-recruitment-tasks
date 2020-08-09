@@ -7,3 +7,4 @@ list_ = list(a)
 list_[1] = 'X'
 a = "".join(list_)
 print(a)
+
